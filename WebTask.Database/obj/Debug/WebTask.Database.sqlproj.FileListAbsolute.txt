@@ -1,0 +1,5 @@
+D:\Projects\WebTask\WebTask\WebTask.Database\bin\Debug\WebTask.Database.dacpac
+D:\Projects\WebTask\WebTask\WebTask.Database\bin\Debug\WebTask.Database.dll
+D:\Projects\WebTask\WebTask\WebTask.Database\bin\Debug\WebTask.Database.pdb
+D:\Projects\WebTask\WebTask\WebTask.Database\obj\Debug\WebTask.Database.dll
+D:\Projects\WebTask\WebTask\WebTask.Database\obj\Debug\WebTask.Database.pdb

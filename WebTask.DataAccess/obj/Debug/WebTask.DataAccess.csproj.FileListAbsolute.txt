@@ -1,0 +1,10 @@
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\bin\Debug\WebTask.DataAccess.dll.config
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\bin\Debug\WebTask.DataAccess.dll
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\bin\Debug\WebTask.DataAccess.pdb
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\bin\Debug\EntityFramework.dll
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\bin\Debug\EntityFramework.xml
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\obj\Debug\WebTask.DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\obj\Debug\WebTask.DataAccess.dll
+D:\Projects\WebTask\WebTask\WebTask.DataAccess\obj\Debug\WebTask.DataAccess.pdb

@@ -1,0 +1,13 @@
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.BusinessLogic.dll
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.BusinessLogic.pdb
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\obj\Debug\WebTask.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\obj\Debug\WebTask.BusinessLogic.dll
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\obj\Debug\WebTask.BusinessLogic.pdb
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.Core.dll
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.DataAccess.dll
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.Database.dll
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.Core.pdb
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.DataAccess.pdb
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\WebTask.Database.pdb
+D:\Projects\WebTask\WebTask\WebTask.BusinessLogic\bin\Debug\EntityFramework.xml

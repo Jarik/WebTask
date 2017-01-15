@@ -1,0 +1,9 @@
+D:\Projects\WebTask\WebTask\WebTask.Core\bin\Debug\WebTask.Core.dll
+D:\Projects\WebTask\WebTask\WebTask.Core\bin\Debug\WebTask.Core.pdb
+D:\Projects\WebTask\WebTask\WebTask.Core\bin\Debug\WebTask.DataAccess.dll
+D:\Projects\WebTask\WebTask\WebTask.Core\bin\Debug\EntityFramework.dll
+D:\Projects\WebTask\WebTask\WebTask.Core\bin\Debug\WebTask.DataAccess.pdb
+D:\Projects\WebTask\WebTask\WebTask.Core\bin\Debug\EntityFramework.xml
+D:\Projects\WebTask\WebTask\WebTask.Core\obj\Debug\WebTask.Core.csprojResolveAssemblyReference.cache
+D:\Projects\WebTask\WebTask\WebTask.Core\obj\Debug\WebTask.Core.dll
+D:\Projects\WebTask\WebTask\WebTask.Core\obj\Debug\WebTask.Core.pdb
