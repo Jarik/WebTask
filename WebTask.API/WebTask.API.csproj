@@ -233,9 +233,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Controllers\AccountController.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\ItemsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -317,6 +315,20 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebTask.BusinessLogic\WebTask.BusinessLogic.csproj">
+      <Project>{e3772970-c749-418f-b51c-8377487f911e}</Project>
+      <Name>WebTask.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebTask.Core\WebTask.Core.csproj">
+      <Project>{46a6f0e8-0129-4d7c-84e3-8532d13d910b}</Project>
+      <Name>WebTask.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebTask.Database\WebTask.Database.sqlproj">
+      <Project>{1b093cd4-d268-4fb6-a53b-f70601460a41}</Project>
+      <Name>WebTask.Database</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

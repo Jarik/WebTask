@@ -26,7 +26,7 @@ namespace WebTask.BusinessLogic.Services.Implementation
             return this.unitOfWork.ItemRepository.GetDetails(id).ToViewModel();
         }
 
-        public IEnumerable<ItemViewModel> GetList(Guid? userId)
+        public IEnumerable<ItemViewModel> GetList(Guid? userId = null)
         {
             return this.unitOfWork.ItemRepository.GetList()
                 .Select(x => x.ToViewModel());

@@ -15,7 +15,7 @@ namespace WebTask.BusinessLogic.Services
 
         void Delete(int id);
 
-        IEnumerable<ItemViewModel> GetList(Guid? userId);
+        IEnumerable<ItemViewModel> GetList(Guid? userId = null);
 
         ItemViewModel GetDetails(int id);
     }

@@ -88,3 +88,11 @@ D:\Projects\WebTask\WebTask\WebTask.API\bin\System.Web.Http.Owin.xml
 D:\Projects\WebTask\WebTask\WebTask.API\obj\Debug\WebTask.API.csprojResolveAssemblyReference.cache
 D:\Projects\WebTask\WebTask\WebTask.API\obj\Debug\WebTask.API.dll
 D:\Projects\WebTask\WebTask\WebTask.API\obj\Debug\WebTask.API.pdb
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.BusinessLogic.dll
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.Core.dll
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.Database.dll
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.DataAccess.dll
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.BusinessLogic.pdb
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.Core.pdb
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.Database.pdb
+D:\Projects\WebTask\WebTask\WebTask.API\bin\WebTask.DataAccess.pdb
