@@ -1,0 +1,22 @@
+﻿
+@using WebTask.Core.ViewModels
+
+@model ItemViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@Html.BeginForm()
+
+<table>
+    <tr>
+        <td>Name: </td>
+        <td>@Html.TextBoxFor(x => x.Name)</td>
+    </tr>
+</table>
+<input type="submit" value="Create" />
+
+

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTask.BusinessLogic", "We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTask.Core", "WebTask.Core\WebTask.Core.csproj", "{46A6F0E8-0129-4D7C-84E3-8532D13D910B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTask.Receivers", "WebTask.Receivers\WebTask.Receivers.csproj", "{CC8BCBEE-01C6-436C-AF78-F15330CCF8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTask.Web", "WebTask.Web\WebTask.Web.csproj", "{2A6E09A1-FED8-42BF-96A6-2148FE191C86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,14 @@ Global
 		{46A6F0E8-0129-4D7C-84E3-8532D13D910B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46A6F0E8-0129-4D7C-84E3-8532D13D910B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46A6F0E8-0129-4D7C-84E3-8532D13D910B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8BCBEE-01C6-436C-AF78-F15330CCF8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8BCBEE-01C6-436C-AF78-F15330CCF8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8BCBEE-01C6-436C-AF78-F15330CCF8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8BCBEE-01C6-436C-AF78-F15330CCF8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6E09A1-FED8-42BF-96A6-2148FE191C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6E09A1-FED8-42BF-96A6-2148FE191C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6E09A1-FED8-42BF-96A6-2148FE191C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6E09A1-FED8-42BF-96A6-2148FE191C86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\WebTask.Receivers.dll.config
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\WebTask.Receivers.dll
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\WebTask.Receivers.pdb
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\WebTask.Core.dll
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\WebTask.DataAccess.dll
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\EntityFramework.dll
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\WebTask.Core.pdb
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\WebTask.DataAccess.pdb
+D:\Projects\WebTask\WebTask\WebTask.Receivers\bin\Debug\EntityFramework.xml
+D:\Projects\WebTask\WebTask\WebTask.Receivers\obj\Debug\WebTask.Receivers.csprojResolveAssemblyReference.cache
+D:\Projects\WebTask\WebTask\WebTask.Receivers\obj\Debug\WebTask.Receivers.dll
+D:\Projects\WebTask\WebTask\WebTask.Receivers\obj\Debug\WebTask.Receivers.pdb
